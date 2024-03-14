@@ -1,3 +1,8 @@
+<?php
+
+msg( "Patolino");
+?>
+
 
     <form action="acao.php" method="POST">
       <pre> 
